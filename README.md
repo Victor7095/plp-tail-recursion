@@ -1,1 +1,2 @@
-# plp-tail-recursion
+# Recursão em Cauda
+# Paradigmas de Linguagem de Programação - Atividade 007
